@@ -1,1 +1,2 @@
 # Songplaylist
+ OOPs concept and java is being used to implement this project(all the backend part no css used for styling). I have created a song class to get the title and duration of Song, Album class to store the name of it, the artist and the Arraylist of songs. Functionalities of this include adding song to album, playlist, playing next song or previous song or the current song, showing list of all songs and deletion of current song. 
